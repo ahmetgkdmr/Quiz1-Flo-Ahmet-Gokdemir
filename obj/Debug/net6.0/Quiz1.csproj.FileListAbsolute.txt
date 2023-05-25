@@ -1,0 +1,75 @@
+C:/Repos/Quiz/Quiz1/bin/Debug/net6.0/Quiz1.exe
+C:/Repos/Quiz/Quiz1/bin/Debug/net6.0/Quiz1.deps.json
+C:/Repos/Quiz/Quiz1/bin/Debug/net6.0/Quiz1.runtimeconfig.json
+C:/Repos/Quiz/Quiz1/bin/Debug/net6.0/Quiz1.dll
+C:/Repos/Quiz/Quiz1/bin/Debug/net6.0/Quiz1.pdb
+C:/Repos/Quiz/Quiz1/obj/Debug/net6.0/Quiz1.csproj.AssemblyReference.cache
+C:/Repos/Quiz/Quiz1/obj/Debug/net6.0/Quiz1.GeneratedMSBuildEditorConfig.editorconfig
+C:/Repos/Quiz/Quiz1/obj/Debug/net6.0/Quiz1.AssemblyInfoInputs.cache
+C:/Repos/Quiz/Quiz1/obj/Debug/net6.0/Quiz1.AssemblyInfo.cs
+C:/Repos/Quiz/Quiz1/obj/Debug/net6.0/Quiz1.csproj.CoreCompileInputs.cache
+C:/Repos/Quiz/Quiz1/obj/Debug/net6.0/Quiz1.dll
+C:/Repos/Quiz/Quiz1/obj/Debug/net6.0/refint/Quiz1.dll
+C:/Repos/Quiz/Quiz1/obj/Debug/net6.0/Quiz1.pdb
+C:/Repos/Quiz/Quiz1/obj/Debug/net6.0/Quiz1.genruntimeconfig.cache
+C:/Repos/Quiz/Quiz1/obj/Debug/net6.0/ref/Quiz1.dll
+/Users/ahmetgokdemir/Downloads/Quiz1/obj/Debug/net6.0/Quiz1.csproj.AssemblyReference.cache
+/Users/ahmetgokdemir/Downloads/Quiz1/obj/Debug/net6.0/Quiz1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetgokdemir/Downloads/Quiz1/obj/Debug/net6.0/Quiz1.AssemblyInfoInputs.cache
+/Users/ahmetgokdemir/Downloads/Quiz1/obj/Debug/net6.0/Quiz1.AssemblyInfo.cs
+/Users/ahmetgokdemir/Downloads/Quiz1/obj/Debug/net6.0/Quiz1.csproj.CoreCompileInputs.cache
+/Users/ahmetgokdemir/Downloads/Quiz1/obj/Debug/net6.0/Quiz1.pdb
+/Users/ahmetgokdemir/Downloads/Quiz1/bin/Debug/net6.0/Quiz1
+/Users/ahmetgokdemir/Downloads/Quiz1/bin/Debug/net6.0/Quiz1.deps.json
+/Users/ahmetgokdemir/Downloads/Quiz1/bin/Debug/net6.0/Quiz1.runtimeconfig.json
+/Users/ahmetgokdemir/Downloads/Quiz1/bin/Debug/net6.0/Quiz1.dll
+/Users/ahmetgokdemir/Downloads/Quiz1/bin/Debug/net6.0/Quiz1.pdb
+/Users/ahmetgokdemir/Downloads/Quiz1/obj/Debug/net6.0/Quiz1.dll
+/Users/ahmetgokdemir/Downloads/Quiz1/obj/Debug/net6.0/refint/Quiz1.dll
+/Users/ahmetgokdemir/Downloads/Quiz1/obj/Debug/net6.0/Quiz1.genruntimeconfig.cache
+/Users/ahmetgokdemir/Downloads/Quiz1/obj/Debug/net6.0/ref/Quiz1.dll
+/Users/ahmetgokdemir/Downloads/Quiz1 6/bin/Debug/net6.0/Quiz1
+/Users/ahmetgokdemir/Downloads/Quiz1 6/bin/Debug/net6.0/Quiz1.deps.json
+/Users/ahmetgokdemir/Downloads/Quiz1 6/bin/Debug/net6.0/Quiz1.runtimeconfig.json
+/Users/ahmetgokdemir/Downloads/Quiz1 6/bin/Debug/net6.0/Quiz1.dll
+/Users/ahmetgokdemir/Downloads/Quiz1 6/bin/Debug/net6.0/Quiz1.pdb
+/Users/ahmetgokdemir/Downloads/Quiz1 6/obj/Debug/net6.0/Quiz1.csproj.AssemblyReference.cache
+/Users/ahmetgokdemir/Downloads/Quiz1 6/obj/Debug/net6.0/Quiz1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetgokdemir/Downloads/Quiz1 6/obj/Debug/net6.0/Quiz1.AssemblyInfoInputs.cache
+/Users/ahmetgokdemir/Downloads/Quiz1 6/obj/Debug/net6.0/Quiz1.AssemblyInfo.cs
+/Users/ahmetgokdemir/Downloads/Quiz1 6/obj/Debug/net6.0/Quiz1.csproj.CoreCompileInputs.cache
+/Users/ahmetgokdemir/Downloads/Quiz1 6/obj/Debug/net6.0/Quiz1.dll
+/Users/ahmetgokdemir/Downloads/Quiz1 6/obj/Debug/net6.0/refint/Quiz1.dll
+/Users/ahmetgokdemir/Downloads/Quiz1 6/obj/Debug/net6.0/Quiz1.pdb
+/Users/ahmetgokdemir/Downloads/Quiz1 6/obj/Debug/net6.0/Quiz1.genruntimeconfig.cache
+/Users/ahmetgokdemir/Downloads/Quiz1 6/obj/Debug/net6.0/ref/Quiz1.dll
+/Users/ahmetgokdemir/Desktop/Quiz1 - Ahmet Gökdemir/bin/Debug/net6.0/Quiz1
+/Users/ahmetgokdemir/Desktop/Quiz1 - Ahmet Gökdemir/bin/Debug/net6.0/Quiz1.deps.json
+/Users/ahmetgokdemir/Desktop/Quiz1 - Ahmet Gökdemir/bin/Debug/net6.0/Quiz1.runtimeconfig.json
+/Users/ahmetgokdemir/Desktop/Quiz1 - Ahmet Gökdemir/bin/Debug/net6.0/Quiz1.dll
+/Users/ahmetgokdemir/Desktop/Quiz1 - Ahmet Gökdemir/bin/Debug/net6.0/Quiz1.pdb
+/Users/ahmetgokdemir/Desktop/Quiz1 - Ahmet Gökdemir/obj/Debug/net6.0/Quiz1.csproj.AssemblyReference.cache
+/Users/ahmetgokdemir/Desktop/Quiz1 - Ahmet Gökdemir/obj/Debug/net6.0/Quiz1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetgokdemir/Desktop/Quiz1 - Ahmet Gökdemir/obj/Debug/net6.0/Quiz1.AssemblyInfoInputs.cache
+/Users/ahmetgokdemir/Desktop/Quiz1 - Ahmet Gökdemir/obj/Debug/net6.0/Quiz1.AssemblyInfo.cs
+/Users/ahmetgokdemir/Desktop/Quiz1 - Ahmet Gökdemir/obj/Debug/net6.0/Quiz1.csproj.CoreCompileInputs.cache
+/Users/ahmetgokdemir/Desktop/Quiz1 - Ahmet Gökdemir/obj/Debug/net6.0/Quiz1.dll
+/Users/ahmetgokdemir/Desktop/Quiz1 - Ahmet Gökdemir/obj/Debug/net6.0/refint/Quiz1.dll
+/Users/ahmetgokdemir/Desktop/Quiz1 - Ahmet Gökdemir/obj/Debug/net6.0/Quiz1.pdb
+/Users/ahmetgokdemir/Desktop/Quiz1 - Ahmet Gökdemir/obj/Debug/net6.0/Quiz1.genruntimeconfig.cache
+/Users/ahmetgokdemir/Desktop/Quiz1 - Ahmet Gökdemir/obj/Debug/net6.0/ref/Quiz1.dll
+/Users/ahmetgokdemir/Downloads/Quiz1 - Ahmet Gökdemir 4/bin/Debug/net6.0/Quiz1
+/Users/ahmetgokdemir/Downloads/Quiz1 - Ahmet Gökdemir 4/bin/Debug/net6.0/Quiz1.deps.json
+/Users/ahmetgokdemir/Downloads/Quiz1 - Ahmet Gökdemir 4/bin/Debug/net6.0/Quiz1.runtimeconfig.json
+/Users/ahmetgokdemir/Downloads/Quiz1 - Ahmet Gökdemir 4/bin/Debug/net6.0/Quiz1.dll
+/Users/ahmetgokdemir/Downloads/Quiz1 - Ahmet Gökdemir 4/bin/Debug/net6.0/Quiz1.pdb
+/Users/ahmetgokdemir/Downloads/Quiz1 - Ahmet Gökdemir 4/obj/Debug/net6.0/Quiz1.csproj.AssemblyReference.cache
+/Users/ahmetgokdemir/Downloads/Quiz1 - Ahmet Gökdemir 4/obj/Debug/net6.0/Quiz1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmetgokdemir/Downloads/Quiz1 - Ahmet Gökdemir 4/obj/Debug/net6.0/Quiz1.AssemblyInfoInputs.cache
+/Users/ahmetgokdemir/Downloads/Quiz1 - Ahmet Gökdemir 4/obj/Debug/net6.0/Quiz1.AssemblyInfo.cs
+/Users/ahmetgokdemir/Downloads/Quiz1 - Ahmet Gökdemir 4/obj/Debug/net6.0/Quiz1.csproj.CoreCompileInputs.cache
+/Users/ahmetgokdemir/Downloads/Quiz1 - Ahmet Gökdemir 4/obj/Debug/net6.0/Quiz1.dll
+/Users/ahmetgokdemir/Downloads/Quiz1 - Ahmet Gökdemir 4/obj/Debug/net6.0/refint/Quiz1.dll
+/Users/ahmetgokdemir/Downloads/Quiz1 - Ahmet Gökdemir 4/obj/Debug/net6.0/Quiz1.pdb
+/Users/ahmetgokdemir/Downloads/Quiz1 - Ahmet Gökdemir 4/obj/Debug/net6.0/Quiz1.genruntimeconfig.cache
+/Users/ahmetgokdemir/Downloads/Quiz1 - Ahmet Gökdemir 4/obj/Debug/net6.0/ref/Quiz1.dll
